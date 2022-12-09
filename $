@@ -1,0 +1,9 @@
+* remote origin
+  Fetch URL: https://github.com/ritika9691/Tetify-Project.git
+  Push  URL: https://github.com/ritika9691/Tetify-Project.git
+  HEAD branch: main
+  Remote branches:
+    main   new (next fetch will store in remotes/origin)
+    master new (next fetch will store in remotes/origin)
+  Local ref configured for 'git push':
+    main pushes to main (local out of date)
